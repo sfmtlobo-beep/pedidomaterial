@@ -1,0 +1,10 @@
+AEDC — PORTAL COMPLETO PARA GITHUB PAGES
+
+Carregar os ficheiros e a pasta Salas_JI na raiz do repositório.
+Nao carregar apenas o ZIP.
+Ativar Settings > Pages > Deploy from a branch > main > /(root).
+
+O acesso por codigo e apenas orientador; nao protege dados.
+Os docentes descarregam ficheiros de pedido e enviam-nos por email.
+A pagina ADMINISTRACAO.html importa os ficheiros recebidos; nao existe base de dados.
+Nao guardar dados pessoais sensiveis nas requisicoes.

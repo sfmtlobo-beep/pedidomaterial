@@ -1,0 +1,8 @@
+AEDC — PORTAL ÚNICO (PROTÓTIPO LOCAL)
+
+Abra index.html num navegador. Selecione escola, sala e introduza o código de teste da folha CODIGOS_TESTE.csv.
+Mantenha todos os ficheiros e a pasta Salas_JI juntos.
+Os docentes podem guardar rascunhos e exportar pedidos como na versão anterior.
+
+ATENÇÃO À PRIVACIDADE: os códigos estão no JavaScript do index.html, e os ficheiros individuais incluem os orçamentos. Isto NÃO é autenticação nem controlo de acesso. NÃO publique este ZIP no GitHub Pages nem distribua como solução confidencial. Para ter um único endereço público com códigos realmente privados, é necessário um serviço que valide os códigos no servidor e só então entregue o orçamento da sala.
+A página ADMINISTRACAO.html é igualmente local e deve ficar reservada à administração.
